@@ -21,7 +21,7 @@ namespace Demo
             {
                 for (int i = 0; i < totalPizzas; i++)
                 {
-                    pizza = pizzaManager.CreateAPizza();
+                    pizza = pizzaManager.CreateAUniquePizza();
 
                     Console.WriteLine(i + " " + pizza.BoxPizza());
                 }

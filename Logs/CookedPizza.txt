@@ -1,3 +1,50 @@
-stuffed crispy vegetable 5850
-thin crispy vegetable 3900
+deep pan ham and mushroom 9200
+thin crust vegetable 3900
+stuffed crust vegetable 5850
+stuffed pan ham and mushroom 6900
+deep pan ham and mushroom 9200
+thin pan ham and mushroom 4600
+thin crust vegetable 3900
+deep crust ham and mushroom 9200
 deep crispy ham and mushroom 9200
+stuffed crispy ham and mushroom 6900
+stuffed crispy vegetable 5850
+deep crispy pepperoni 7800
+stuffed crispy ham and mushroom 6900
+thin pan vegetable 3900
+thin crust pepperoni 3900
+thin crust ham and mushroom 4600
+stuffed crust ham and mushroom 6900
+stuffed crust pepperoni 5850
+deep crispy ham and mushroom 9200
+deep crust ham and mushroom 9200
+thin crispy vegetable 3900
+stuffed crispy vegetable 5850
+deep crust vegetable 7800
+thin crust ham and mushroom 4600
+deep pan vegetable 7800
+stuffed crust pepperoni 5850
+thin crispy pepperoni 3900
+stuffed pan pepperoni 5850
+deep crust vegetable 7800
+deep pan pepperoni 7800
+stuffed crispy pepperoni 5850
+thin pan pepperoni 3900
+thin crust vegetable 3900
+thin crust vegetable 3900
+deep pan pepperoni 7800
+thin crust ham and mushroom 4600
+deep crust ham and mushroom 9200
+deep pan pepperoni 7800
+stuffed crispy pepperoni 5850
+deep crust pepperoni 7800
+stuffed crust vegetable 5850
+stuffed pan pepperoni 5850
+deep pan ham and mushroom 9200
+stuffed crispy pepperoni 5850
+deep crispy vegetable 7800
+deep pan pepperoni 7800
+thin crust ham and mushroom 4600
+stuffed pan vegetable 5850
+stuffed crust vegetable 5850
+thin crust pepperoni 3900

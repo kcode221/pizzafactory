@@ -23,15 +23,25 @@ namespace PizzaFactory
             PLogger = pLogger;
         }
 
-        public Pizza CreateAPizza()
+        public Pizza CreateAUniquePizza()
         {
-            var pizza = PBuilder.BuildAPizza();
-            if (PValidator.ValidateAPizza(pizza))
+            int pCount = 0;
+            Pizza pizza = PBuilder.BuildAPizza();
+            while (pCount < 1)
             {
-                PCooker.CookAPizza(pizza.CalculateCookTime());
-                PLogger.LogAPizza(pizza);
-            }
 
+                if (PValidator.ValidateAPizza(pizza))
+                {
+                    pCount++;
+                    PCooker.CookAPizza(pizza.CalculateCookTime());
+                    PLogger.LogAPizza(pizza);
+                }
+                else
+                {
+                    pizza = PBuilder.BuildAPizza();
+                    continue;
+                }
+            }
             return pizza;
         }
 
